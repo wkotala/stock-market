@@ -1,0 +1,13 @@
+# Przypadek testowy z większą liczbą inwestorów i akcji.
+# Sprawdza skuteczność inwestorów w warunkach zbliżonych do rzeczywistych (dane spółek notowanych na GPW).
+
+# 10 inwestorów losowych, 10 inwestorów sma
+R R R R R R R R R R   S S S S S S S S S S
+
+# 7 różnych akcji z WIG20 (dane z 14.06.2024 r.)
+# ceny zaokrąglone do najbliższych liczb całkowitych
+ALE: 37   ALR: 91   BDX: 673   CDR: 134   CPS: 12   DNP: 398   JSW: 29
+
+# Przykładowy portfel:
+# każdy inwestor posiada początkowo 100'000 zł oraz równowartość ok. 15'000 zł w każdej akcji.
+100000    ALE: 405   ALR: 165   BDX: 22   CDR: 112   CPS: 1250   DNP: 38   JSW: 517
